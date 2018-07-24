@@ -1,0 +1,16 @@
+.contact h1{
+    color: cornflowerblue
+}
+/* a {
+    text-decoration: none;
+    color: purple
+
+} */
+/* #about {
+    color: blueviolet
+    background-color: yellow
+} */
+
+li:hover{
+    font-weight: 700;
+}
